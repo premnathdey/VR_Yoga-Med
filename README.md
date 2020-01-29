@@ -53,6 +53,7 @@ To Do:
 ---------------
 See [here](ToDo.md) to get a list of much needed features, some of which we are working on. We will try to keep this list up to date.
 
+![usage](./image.gif)
 Documentation:
 ---------------
 
