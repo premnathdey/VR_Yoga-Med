@@ -16,7 +16,7 @@
   },
   "memory" : {
     "Resident Size" : "27082752",
-    "Virtual Size" : "4594679808",
+    "Virtual Size" : "4594679898",
     "minor_gc_time" : "1183488",
     "major_gc_time" : "0",
     "minor_gc_count" : "2",
